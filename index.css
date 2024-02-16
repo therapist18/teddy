@@ -302,6 +302,11 @@ small{
       height: 80vh;
     }
 }
+@media(max-width: 609px){
+  .navbar_one .nav{
+    visibility: hidden;
+  }
+}
 @media(max-width: 576px){
    .gallery .row{
     padding-left: 35%;
