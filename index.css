@@ -303,8 +303,8 @@ small{
     }
 }
 @media(max-width: 609px){
-  .navbar_one {
-    visibility: hidden;
+  .navbar_one .nav{
+    display: none;
   }
 }
 @media(max-width: 576px){
