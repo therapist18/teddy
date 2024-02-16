@@ -303,7 +303,7 @@ small{
     }
 }
 @media(max-width: 609px){
-  .navbar_one .nav{
+  .navbar_one {
     visibility: hidden;
   }
 }
